@@ -34,7 +34,7 @@ recruitment-ai-system/
 ├── README.md                 # Este arquivo
 └── files/                    # Pasta de dados
     ├── applicants.json       # Dados dos candidatos
-    ├── vagas.json           # Dados das vagas
+    ├── vagas.json            # Dados das vagas
     └── prospects.json        # Dados de prospects
 ```
 
